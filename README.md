@@ -1,1 +1,1 @@
-# sturdy-octo-telegram
+# translate gabut su
