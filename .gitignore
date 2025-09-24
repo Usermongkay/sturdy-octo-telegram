@@ -1,0 +1,12 @@
+downloads/
+temp_splits/
+de/
+to_rpyn/
+rpy/
+to_rpyc5/
+
+# Ignore semua file dengan ekstensi tertentu
+*.xml
+*.env
+*.json
+*.bag
